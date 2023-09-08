@@ -1,7 +1,7 @@
-Determinador de Categoria de Habilitação para Veículos
+## Determinador de Categoria de Habilitação para Veículos
 Este código Python é um determinador de categoria de habilitação necessário para diferentes tipos de veículos, com base em informações como a quantidade de rodas, o peso bruto do veículo em quilogramas e a quantidade de pessoas no veículo. Ele foi desenvolvido para auxiliar na identificação da categoria de habilitação necessária para operar um veículo específico, de acordo com as regulamentações de trânsito.
 
-Como Funciona
+**Como Funciona**
 O usuário é solicitado a fornecer as seguintes informações sobre o veículo:
 
 Quantidade de rodas do veículo.
